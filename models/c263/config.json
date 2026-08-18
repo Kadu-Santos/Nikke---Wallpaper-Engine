@@ -11,13 +11,13 @@
             "folder": "",
             "position": {
                 "x": 0,
-                "y": -25,
-                "scale": 7
+                "y": -35,
+                "scale": 6.5
             },
             "animations": {
                 "idle": "idle",
-                "action": "action",
-                "hit": "angry"
+                "action": "shy",
+                "hit": "special"
             },
             "model": {
                 "skeleton": "c263_00.skel",

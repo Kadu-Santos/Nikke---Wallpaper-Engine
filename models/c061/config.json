@@ -3,8 +3,8 @@
     "name": "Mica",
     "weapon": "RL",
     "appearance": {
-        "color1": "#8aaed5",
-        "color2": "#8aaed5"
+        "color1": "#424338",
+        "color2": "#35352c"
     },
     "variants": [
         {
@@ -13,7 +13,7 @@
             "position": {
                 "x": 0,
                 "y": -20,
-                "scale": 8.0
+                "scale": 8
             },
             "animations": {
                 "idle": "idle",
@@ -31,7 +31,7 @@
             "position": {
                 "x": 0,
                 "y": -15,
-                "scale": 8.0
+                "scale": 8
             },
             "animations": {
                 "idle": "cover_idle",

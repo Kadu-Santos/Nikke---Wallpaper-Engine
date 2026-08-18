@@ -3,8 +3,8 @@
     "name": "Soline",
     "weapon": "SMG",
     "appearance": {
-        "color1": "#dc3c3a",
-        "color2": "#dc3c3a"
+        "color1": "#9b8ce8",
+        "color2": "#0085eb"
     },
     "variants": [
         {
@@ -13,7 +13,7 @@
             "position": {
                 "x": 0,
                 "y": -20,
-                "scale": 8.0
+                "scale": 8
             },
             "animations": {
                 "idle": "idle",
@@ -31,7 +31,7 @@
             "position": {
                 "x": 0,
                 "y": -15,
-                "scale": 8.0
+                "scale": 8
             },
             "animations": {
                 "idle": "cover_idle",

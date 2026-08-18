@@ -3,7 +3,7 @@
     "name": "E.H. Junkyard Vanguard",
     "weapon": "SMG",
     "appearance": {
-        "color1": "#7c8acb",
+        "color1": "#883654",
         "color2": "#7c8acb"
     },
     "variants": [
@@ -12,8 +12,8 @@
             "folder": "",
             "position": {
                 "x": 0,
-                "y": -25,
-                "scale": 7
+                "y": -35,
+                "scale": 6
             },
             "animations": {
                 "idle": "idle",

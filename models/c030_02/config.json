@@ -3,8 +3,8 @@
     "name": "Poli Cheer Up Police",
     "weapon": "SG",
     "appearance": {
-        "color1": "#ff8a46",
-        "color2": "#ff8a46"
+        "color1": "#5099ff",
+        "color2": "#3b4ede"
     },
     "variants": [
         {
@@ -18,7 +18,7 @@
             "animations": {
                 "idle": "idle",
                 "action": "action",
-                "hit": "angry"
+                "hit": "sad"
             },
             "model": {
                 "skeleton": "c030_02_00.skel",

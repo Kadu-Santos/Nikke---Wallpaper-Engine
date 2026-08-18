@@ -3,7 +3,7 @@
     "name": "Rapi: Red Hood Red Flavor",
     "weapon": "AR",
     "appearance": {
-        "color1": "#d13b57",
+        "color1": "#d987c3",
         "color2": "#d13b57"
     },
     "variants": [
@@ -12,8 +12,8 @@
             "folder": "",
             "position": {
                 "x": 0,
-                "y": -25,
-                "scale": 7
+                "y": -30,
+                "scale": 6
             },
             "animations": {
                 "idle": "idle",
@@ -31,7 +31,7 @@
             "position": {
                 "x": 0,
                 "y": -15,
-                "scale": 8
+                "scale": 7.5
             },
             "animations": {
                 "idle": "cover_idle",

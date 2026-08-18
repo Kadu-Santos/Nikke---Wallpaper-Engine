@@ -3,7 +3,7 @@
     "name": "Anis: Star T.T. STAR",
     "weapon": "RL",
     "appearance": {
-        "color1": "#d24444",
+        "color1": "#e59f40",
         "color2": "#d24444"
     },
     "variants": [
@@ -12,7 +12,7 @@
             "folder": "",
             "position": {
                 "x": 0,
-                "y": -25,
+                "y": -30,
                 "scale": 7
             },
             "animations": {

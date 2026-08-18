@@ -18,7 +18,7 @@
             "animations": {
                 "idle": "idle",
                 "action": "action",
-                "hit": "angry"
+                "hit": "shy"
             },
             "model": {
                 "skeleton": "c010_03_00.skel",

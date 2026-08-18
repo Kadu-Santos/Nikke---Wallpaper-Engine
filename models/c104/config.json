@@ -11,12 +11,12 @@
             "folder": "",
             "position": {
                 "x": 0,
-                "y": -25,
-                "scale": 7
+                "y": -30,
+                "scale": 6
             },
             "animations": {
                 "idle": "idle",
-                "action": "action",
+                "action": "delight2",
                 "hit": "angry"
             },
             "model": {

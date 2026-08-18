@@ -3,7 +3,7 @@
     "name": "D: Killer Wife Secret Police",
     "weapon": "SMG",
     "appearance": {
-        "color1": "#5353ff",
+        "color1": "#52ff54",
         "color2": "#5353ff"
     },
     "variants": [
@@ -12,13 +12,13 @@
             "folder": "",
             "position": {
                 "x": 0,
-                "y": -25,
-                "scale": 7
+                "y": -30,
+                "scale": 6.5
             },
             "animations": {
                 "idle": "idle",
                 "action": "action",
-                "hit": "angry"
+                "hit": "mad"
             },
             "model": {
                 "skeleton": "c043_02_00.skel",

@@ -3,8 +3,8 @@
     "name": "Nayuta Wu Wei",
     "weapon": "SMG",
     "appearance": {
-        "color1": "#ffaf37",
-        "color2": "#ffaf37"
+        "color1": "#000000",
+        "color2": "#000000"
     },
     "variants": [
         {
@@ -13,7 +13,7 @@
             "position": {
                 "x": 0,
                 "y": -25,
-                "scale": 7
+                "scale": 6.1
             },
             "animations": {
                 "idle": "idle",

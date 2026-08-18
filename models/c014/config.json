@@ -3,8 +3,8 @@
     "name": "Neon: Blue Ocean",
     "weapon": "MG",
     "appearance": {
-        "color1": "#3180ff",
-        "color2": "#3180ff"
+        "color1": "#8eeefb",
+        "color2": "#2c5496"
     },
     "variants": [
         {

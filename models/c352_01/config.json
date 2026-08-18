@@ -12,8 +12,8 @@
             "folder": "",
             "position": {
                 "x": 0,
-                "y": -20,
-                "scale": 8.0
+                "y": 0,
+                "scale": 8
             },
             "animations": {
                 "idle": "idle",
@@ -30,8 +30,8 @@
             "folder": "cover",
             "position": {
                 "x": 0,
-                "y": -15,
-                "scale": 8.0
+                "y": -10,
+                "scale": 7.5
             },
             "animations": {
                 "idle": "cover_idle",

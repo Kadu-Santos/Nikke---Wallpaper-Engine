@@ -3,8 +3,8 @@
     "name": "Snow White White Knight",
     "weapon": "AR",
     "appearance": {
-        "color1": "#ffe12d",
-        "color2": "#ffe12d"
+        "color1": "#2e3cff",
+        "color2": "#4b53e2"
     },
     "variants": [
         {
@@ -13,7 +13,7 @@
             "position": {
                 "x": 0,
                 "y": -25,
-                "scale": 7
+                "scale": 6.5
             },
             "animations": {
                 "idle": "idle",

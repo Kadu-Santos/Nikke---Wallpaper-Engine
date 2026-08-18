@@ -13,12 +13,12 @@
             "position": {
                 "x": 0,
                 "y": -20,
-                "scale": 8.0
+                "scale": 8
             },
             "animations": {
                 "idle": "idle",
                 "action": "action",
-                "hit": "angry"
+                "hit": "shy"
             },
             "model": {
                 "skeleton": "c011_00.skel",
@@ -31,7 +31,7 @@
             "position": {
                 "x": 0,
                 "y": -15,
-                "scale": 8.0
+                "scale": 8
             },
             "animations": {
                 "idle": "cover_idle",

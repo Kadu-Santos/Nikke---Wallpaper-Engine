@@ -3,8 +3,8 @@
     "name": "Centi Supreme Holiday",
     "weapon": "RL",
     "appearance": {
-        "color1": "#f6b039",
-        "color2": "#f6b039"
+        "color1": "#4e528f",
+        "color2": "#565893"
     },
     "variants": [
         {
@@ -13,12 +13,12 @@
             "position": {
                 "x": 0,
                 "y": -20,
-                "scale": 8.0
+                "scale": 7
             },
             "animations": {
                 "idle": "idle",
                 "action": "action",
-                "hit": "angry"
+                "hit": "shy"
             },
             "model": {
                 "skeleton": "c080_01_00.skel",
@@ -31,7 +31,7 @@
             "position": {
                 "x": 0,
                 "y": -15,
-                "scale": 8.0
+                "scale": 8
             },
             "animations": {
                 "idle": "cover_idle",

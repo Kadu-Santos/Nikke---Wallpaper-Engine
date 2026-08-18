@@ -3,8 +3,8 @@
     "name": "Emma: Tactical Upgrade Secret Therapy",
     "weapon": "MG",
     "appearance": {
-        "color1": "#ffa431",
-        "color2": "#ffa431"
+        "color1": "#000000",
+        "color2": "#0d0802"
     },
     "variants": [
         {
@@ -12,13 +12,13 @@
             "folder": "",
             "position": {
                 "x": 0,
-                "y": -25,
-                "scale": 7
+                "y": -30,
+                "scale": 6
             },
             "animations": {
                 "idle": "idle",
                 "action": "action",
-                "hit": "angry"
+                "hit": "special"
             },
             "model": {
                 "skeleton": "c093_01_00.skel",

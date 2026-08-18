@@ -11,9 +11,9 @@
             "id": "default",
             "folder": "",
             "position": {
-                "x": 0,
-                "y": -25,
-                "scale": 7
+                "x": 10,
+                "y": -30,
+                "scale": 6
             },
             "animations": {
                 "idle": "idle",
@@ -29,9 +29,9 @@
             "id": "cover",
             "folder": "cover",
             "position": {
-                "x": 0,
-                "y": -15,
-                "scale": 8
+                "x": -5,
+                "y": -20,
+                "scale": 7
             },
             "animations": {
                 "idle": "cover_idle",

@@ -3,8 +3,8 @@
     "name": "Emma: Tactical Upgrade",
     "weapon": "MG",
     "appearance": {
-        "color1": "#ffa431",
-        "color2": "#ffa431"
+        "color1": "#7a0807",
+        "color2": "#933731"
     },
     "variants": [
         {
@@ -12,8 +12,8 @@
             "folder": "",
             "position": {
                 "x": 0,
-                "y": -25,
-                "scale": 7
+                "y": -30,
+                "scale": 6.5
             },
             "animations": {
                 "idle": "idle",

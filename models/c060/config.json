@@ -3,8 +3,8 @@
     "name": "Belorta",
     "weapon": "RL",
     "appearance": {
-        "color1": "#507bd9",
-        "color2": "#507bd9"
+        "color1": "#f56076",
+        "color2": "#ffc953"
     },
     "variants": [
         {
@@ -13,7 +13,7 @@
             "position": {
                 "x": 0,
                 "y": -20,
-                "scale": 8.0
+                "scale": 8
             },
             "animations": {
                 "idle": "idle",
@@ -31,7 +31,7 @@
             "position": {
                 "x": 0,
                 "y": -15,
-                "scale": 8.0
+                "scale": 8
             },
             "animations": {
                 "idle": "cover_idle",

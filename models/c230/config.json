@@ -13,7 +13,7 @@
             "position": {
                 "x": 0,
                 "y": -20,
-                "scale": 8.0
+                "scale": 8
             },
             "animations": {
                 "idle": "idle",
@@ -31,7 +31,7 @@
             "position": {
                 "x": 0,
                 "y": -15,
-                "scale": 8.0
+                "scale": 6.5
             },
             "animations": {
                 "idle": "cover_idle",
@@ -49,7 +49,7 @@
             "position": {
                 "x": 0,
                 "y": -10,
-                "scale": 7
+                "scale": 6.5
             },
             "animations": {
                 "idle": "aim_idle",

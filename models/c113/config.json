@@ -3,8 +3,8 @@
     "name": "E.H.",
     "weapon": "SMG",
     "appearance": {
-        "color1": "#7c8acb",
-        "color2": "#7c8acb"
+        "color1": "#f762af",
+        "color2": "#cf5983"
     },
     "variants": [
         {
@@ -12,8 +12,8 @@
             "folder": "",
             "position": {
                 "x": 0,
-                "y": -25,
-                "scale": 7
+                "y": -35,
+                "scale": 6
             },
             "animations": {
                 "idle": "idle",

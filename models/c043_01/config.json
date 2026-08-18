@@ -3,8 +3,8 @@
     "name": "D: Killer Wife Secret Party Cleaner",
     "weapon": "SMG",
     "appearance": {
-        "color1": "#5353ff",
-        "color2": "#5353ff"
+        "color1": "#865933",
+        "color2": "#5b54e1"
     },
     "variants": [
         {
@@ -13,12 +13,12 @@
             "position": {
                 "x": 0,
                 "y": -25,
-                "scale": 7
+                "scale": 6
             },
             "animations": {
                 "idle": "idle",
                 "action": "action",
-                "hit": "angry"
+                "hit": "smile"
             },
             "model": {
                 "skeleton": "c043_01_00.skel",

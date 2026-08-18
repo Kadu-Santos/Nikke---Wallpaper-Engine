@@ -3,8 +3,8 @@
     "name": "Emma Office Therapy",
     "weapon": "MG",
     "appearance": {
-        "color1": "#e98200",
-        "color2": "#e98200"
+        "color1": "#eb00c0",
+        "color2": "#6a00eb"
     },
     "variants": [
         {
@@ -12,13 +12,13 @@
             "folder": "",
             "position": {
                 "x": 0,
-                "y": -25,
-                "scale": 7
+                "y": -30,
+                "scale": 6.6
             },
             "animations": {
                 "idle": "idle",
                 "action": "action",
-                "hit": "angry"
+                "hit": "special"
             },
             "model": {
                 "skeleton": "c090_02_00.skel",

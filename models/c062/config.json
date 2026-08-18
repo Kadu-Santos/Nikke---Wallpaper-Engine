@@ -3,7 +3,7 @@
     "name": "Mica: Snow Buddy",
     "weapon": "SMG",
     "appearance": {
-        "color1": "#8aaed5",
+        "color1": "#000000",
         "color2": "#8aaed5"
     },
     "variants": [
@@ -18,7 +18,7 @@
             "animations": {
                 "idle": "idle",
                 "action": "action",
-                "hit": "angry"
+                "hit": "pain_02"
             },
             "model": {
                 "skeleton": "c062_00.skel",

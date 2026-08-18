@@ -3,7 +3,7 @@
     "name": "Eunhwa: Tactical Upgrade",
     "weapon": "SR",
     "appearance": {
-        "color1": "#5668ff",
+        "color1": "#5c4f6d",
         "color2": "#5668ff"
     },
     "variants": [
@@ -11,9 +11,9 @@
             "id": "default",
             "folder": "",
             "position": {
-                "x": 0,
-                "y": -25,
-                "scale": 7
+                "x": 10,
+                "y": -30,
+                "scale": 6
             },
             "animations": {
                 "idle": "idle",
@@ -30,8 +30,8 @@
             "folder": "cover",
             "position": {
                 "x": 0,
-                "y": -15,
-                "scale": 8
+                "y": -20,
+                "scale": 7
             },
             "animations": {
                 "idle": "cover_idle",

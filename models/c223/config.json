@@ -3,8 +3,8 @@
     "name": "Nayuta",
     "weapon": "SMG",
     "appearance": {
-        "color1": "#ffaf37",
-        "color2": "#ffaf37"
+        "color1": "#070641",
+        "color2": "#440b4c"
     },
     "variants": [
         {
@@ -13,7 +13,7 @@
             "position": {
                 "x": 0,
                 "y": -25,
-                "scale": 7
+                "scale": 6.5
             },
             "animations": {
                 "idle": "idle",
