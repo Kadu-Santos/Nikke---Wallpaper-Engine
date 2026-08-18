@@ -1,0 +1,28 @@
+{
+    "id": "c570_99",
+    "name": "Ark Ranger Black",
+    "appearance": {
+        "color1": "#005372",
+        "color2": "#000b63"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c570_99.skel",
+                "atlas": "c570_99.atlas"
+            }
+        }
+    ]
+}

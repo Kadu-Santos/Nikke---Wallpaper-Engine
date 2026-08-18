@@ -1,0 +1,28 @@
+{
+    "id": "c982",
+    "name": "Red Shoes",
+    "appearance": {
+        "color1": "#ab1112",
+        "color2": "#ab1112"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c982_00.skel",
+                "atlas": "c982_00.atlas"
+            }
+        }
+    ]
+}

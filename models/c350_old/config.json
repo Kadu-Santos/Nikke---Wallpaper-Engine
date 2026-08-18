@@ -1,0 +1,28 @@
+{
+    "id": "c350_old",
+    "name": "Mast_old",
+    "appearance": {
+        "color1": "#de7405",
+        "color2": "#de7405"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -20,
+                "scale": 8.0
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c350_old_00.skel",
+                "atlas": "c350_old_00.atlas"
+            }
+        }
+    ]
+}

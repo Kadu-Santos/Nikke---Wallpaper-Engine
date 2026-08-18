@@ -1,0 +1,28 @@
+{
+    "id": "c991",
+    "name": "D.E.E.P.",
+    "appearance": {
+        "color1": "#5353ff",
+        "color2": "#5353ff"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "delight",
+                "hit": "idle"
+            },
+            "model": {
+                "skeleton": "c991_00.skel",
+                "atlas": "c991_00.atlas"
+            }
+        }
+    ]
+}

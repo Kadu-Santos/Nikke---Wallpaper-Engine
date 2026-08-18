@@ -1,0 +1,27 @@
+{
+    "name": "Rapunzel",
+    "appearance": {
+        "color1": "#97d8f5",
+        "color2": "#0d299c"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 9,
+                "y": -25,
+                "scale": 6
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "idle2",
+                "hit": "shy"
+            },
+            "model": {
+                "skeleton": "c473_00.skel",
+                "atlas": "c473_00.atlas"
+            }
+        }
+    ]
+}

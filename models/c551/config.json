@@ -1,0 +1,65 @@
+{
+    "id": "c551",
+    "name": "Clay",
+    "weapon": "SMG",
+    "appearance": {
+        "color1": "#48c2cb",
+        "color2": "#48c2cb"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c551_00.skel",
+                "atlas": "c551_00.atlas"
+            }
+        },
+        {
+            "id": "cover",
+            "folder": "cover",
+            "position": {
+                "x": 0,
+                "y": -15,
+                "scale": 8
+            },
+            "animations": {
+                "idle": "cover_idle",
+                "action": "cover_reload",
+                "hit": "cover_stun"
+            },
+            "model": {
+                "skeleton": "c551_cover_00.skel",
+                "atlas": "c551_cover_00.atlas"
+            }
+        },
+        {
+            "id": "aim",
+            "folder": "aim",
+            "position": {
+                "x": 0,
+                "y": -10,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "aim_idle",
+                "action": "aim_fire",
+                "hit": "aim_hit"
+            },
+            "model": {
+                "skeleton": "c551_aim_00.skel",
+                "atlas": "c551_aim_00.atlas"
+            }
+        }
+    ]
+}

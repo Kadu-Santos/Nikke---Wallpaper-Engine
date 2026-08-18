@@ -1,0 +1,28 @@
+{
+    "id": "c480",
+    "name": "Liveryn",
+    "appearance": {
+        "color1": "#ecc380",
+        "color2": "#ecc380"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c480_00.skel",
+                "atlas": "c480_00.atlas"
+            }
+        }
+    ]
+}

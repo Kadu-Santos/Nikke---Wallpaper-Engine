@@ -1,0 +1,65 @@
+{
+    "id": "c800_01",
+    "name": "Makima Coat Off",
+    "weapon": "SMG",
+    "appearance": {
+        "color1": "#ff982b",
+        "color2": "#ff982b"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -20,
+                "scale": 8.0
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c800_01_00.skel",
+                "atlas": "c800_01_00.atlas"
+            }
+        },
+        {
+            "id": "cover",
+            "folder": "cover",
+            "position": {
+                "x": 0,
+                "y": -15,
+                "scale": 8.0
+            },
+            "animations": {
+                "idle": "cover_idle",
+                "action": "cover_reload",
+                "hit": "cover_stun"
+            },
+            "model": {
+                "skeleton": "c800_01_cover_00.skel",
+                "atlas": "c800_01_cover_00.atlas"
+            }
+        },
+        {
+            "id": "aim",
+            "folder": "aim",
+            "position": {
+                "x": 0,
+                "y": -10,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "aim_idle",
+                "action": "aim_fire",
+                "hit": "aim_hit"
+            },
+            "model": {
+                "skeleton": "c800_01_aim_00.skel",
+                "atlas": "c800_01_aim_00.atlas"
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": "c861",
+    "name": "Takina",
+    "weapon": "SR",
+    "appearance": {
+        "color1": "#2a97f3",
+        "color2": "#2a97f3"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c861_00.skel",
+                "atlas": "c861_00.atlas"
+            }
+        },
+        {
+            "id": "cover",
+            "folder": "cover",
+            "position": {
+                "x": 0,
+                "y": -15,
+                "scale": 8
+            },
+            "animations": {
+                "idle": "cover_idle",
+                "action": "cover_reload",
+                "hit": "cover_stun"
+            },
+            "model": {
+                "skeleton": "c861_cover_00.skel",
+                "atlas": "c861_cover_00.atlas"
+            }
+        },
+        {
+            "id": "aim",
+            "folder": "aim",
+            "position": {
+                "x": 0,
+                "y": -10,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "aim_idle",
+                "action": "aim_fire",
+                "hit": "aim_hit"
+            },
+            "model": {
+                "skeleton": "c861_aim_00.skel",
+                "atlas": "c861_aim_00.atlas"
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Yukiko Amagi Inn Kimono",
+    "appearance": {
+        "color1": "#948ee1",
+        "color2": "#c65a6e"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 9,
+                "y": -25,
+                "scale": 6
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c871_01_00.skel",
+                "atlas": "c871_01_00.atlas"
+            }
+        },
+        {
+            "id": "cover",
+            "folder": "cover",
+            "position": {
+                "x": 0,
+                "y": -10,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "cover_idle",
+                "action": "cover_reload",
+                "hit": "cover_stun"
+            },
+            "model": {
+                "skeleton": "c871_01_cover_00.skel",
+                "atlas": "c871_01_cover_00.atlas"
+            }
+        },
+        {
+            "id": "aim",
+            "folder": "aim",
+            "position": {
+                "x": 0,
+                "y": -10,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "aim_idle",
+                "action": "aim_fire",
+                "hit": "aim_hit"
+            },
+            "model": {
+                "skeleton": "c871_01_aim_00.skel",
+                "atlas": "c871_01_aim_00.atlas"
+            }
+        }
+    ]
+}

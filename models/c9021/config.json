@@ -1,0 +1,28 @@
+{
+    "id": "c9021",
+    "name": "Anis",
+    "appearance": {
+        "color1": "#b5a9f4",
+        "color2": "#b5a9f4"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c9021_00.skel",
+                "atlas": "c9021_00.atlas"
+            }
+        }
+    ]
+}

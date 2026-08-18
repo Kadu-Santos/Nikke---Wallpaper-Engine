@@ -1,0 +1,27 @@
+{
+    "name": "Scarlet",
+    "appearance": {
+        "color1": "#df3434",
+        "color2": "#570e71"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 9,
+                "y": -25,
+                "scale": 5
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "go",
+                "hit": "shy"
+            },
+            "model": {
+                "skeleton": "c472_00.skel",
+                "atlas": "c472_00.atlas"
+            }
+        }
+    ]
+}

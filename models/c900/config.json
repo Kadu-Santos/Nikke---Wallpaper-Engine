@@ -1,0 +1,28 @@
+{
+    "id": "c900",
+    "name": "Ingrid",
+    "appearance": {
+        "color1": "#b41f2b",
+        "color2": "#b41f2b"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -20,
+                "scale": 8.0
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c900_00.skel",
+                "atlas": "c900_00.atlas"
+            }
+        }
+    ]
+}

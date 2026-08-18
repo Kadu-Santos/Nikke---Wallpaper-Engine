@@ -1,0 +1,28 @@
+{
+    "id": "c104",
+    "name": "Drake",
+    "appearance": {
+        "color1": "#ed6452",
+        "color2": "#ed6452"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c104_00.skel",
+                "atlas": "c104_00.atlas"
+            }
+        }
+    ]
+}

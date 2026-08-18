@@ -1,0 +1,28 @@
+{
+    "id": "c989",
+    "name": "Rapi",
+    "appearance": {
+        "color1": "#e71700",
+        "color2": "#e71700"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c989_00.skel",
+                "atlas": "c989_00.atlas"
+            }
+        }
+    ]
+}

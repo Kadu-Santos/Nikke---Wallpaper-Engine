@@ -1,0 +1,28 @@
+{
+    "id": "c943",
+    "name": "Liliweiss",
+    "appearance": {
+        "color1": "#73446f",
+        "color2": "#73446f"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c943_00.skel",
+                "atlas": "c943_00.atlas"
+            }
+        }
+    ]
+}

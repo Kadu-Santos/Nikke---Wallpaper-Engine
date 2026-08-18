@@ -1,0 +1,174 @@
+{
+    "generic": {
+        "AR": "generic/AR.wav",
+        "MG": "generic/MG.wav",
+        "RL": "generic/RL.wav",
+        "SG": "generic/SG.wav",
+        "SMG": "generic/SMG.wav",
+        "SR": "generic/SR.wav"
+    },
+    "especial": {
+        "c010": [
+            "especial/c010_fire.wav"
+        ],
+        "c011": [
+            "especial/c011_fire.wav"
+        ],
+        "c012": [
+            "especial/c012_fire.wav"
+        ],
+        "c023": [
+            "especial/c023_fire.wav"
+        ],
+        "c040": [
+            "especial/c040_fire_loop.wav"
+        ],
+        "c070": [
+            "especial/c070_fire.wav"
+        ],
+        "c072": [
+            "especial/c072_fire.wav"
+        ],
+        "c075": [
+            "especial/c075_fire.wav"
+        ],
+        "c090": [
+            "especial/c090_fire_loop.wav"
+        ],
+        "c100": [
+            "especial/c100_fire_2.wav"
+        ],
+        "c101": [
+            "especial/c101_fire.wav"
+        ],
+        "c102": [
+            "especial/c102_fire3.wav"
+        ],
+        "c172": [
+            "especial/c172_fire.wav"
+        ],
+        "c180": [
+            "especial/c180_fire_loop.wav"
+        ],
+        "c182": [
+            "especial/c182_fire_far_1.wav"
+        ],
+        "c183": [
+            "especial/c183_fire_1.wav"
+        ],
+        "c190": [
+            "especial/c190_fire_2.wav"
+        ],
+        "c193": [
+            "especial/c193_fire.wav"
+        ],
+        "c200": [
+            "especial/c200_fire.wav"
+        ],
+        "c222": [
+            "especial/c222_fire_1.wav"
+        ],
+        "c223": [
+            "especial/c223_sd_fire_3.wav"
+        ],
+        "c225": [
+            "especial/c225_fire_1.wav"
+        ],
+        "c230": [
+            "especial/c230_fire.wav"
+        ],
+        "c232": [
+            "especial/c232_fire_2.wav"
+        ],
+        "c234": [
+            "especial/c234_fire_2.wav"
+        ],
+        "c240": [
+            "especial/c240_fire.wav"
+        ],
+        "c262": [
+            "especial/c262_fire.wav"
+        ],
+        "c300": [
+            "especial/c300_fire.wav"
+        ],
+        "c307": [
+            "especial/c307_fire.wav"
+        ],
+        "c311": [
+            "especial/c311_fire.wav"
+        ],
+        "c352": [
+            "especial/c352_fire.wav"
+        ],
+        "c355": [
+            "especial/c355_fire.wav"
+        ],
+        "c381": [
+            "especial/c381_fire.wav"
+        ],
+        "c390": [
+            "especial/c390_fire_2.wav"
+        ],
+        "c403": [
+            "especial/c403_fire_loop.wav"
+        ],
+        "c411": [
+            "especial/c411_fire_loop.wav"
+        ],
+        "c430": [
+            "especial/c430_fire.wav"
+        ],
+        "c441": [
+            "especial/c441_fire.wav"
+        ],
+        "c471": [
+            "especial/c471_fire_far_3.wav"
+        ],
+        "c500": [
+            "especial/c500_fire_loop.wav"
+        ],
+        "c501": [
+            "especial/c501_fire.wav"
+        ],
+        "c511": [
+            "especial/c511_fire_2.wav"
+        ],
+        "c513": [
+            "especial/c513_sd_fire_2.wav"
+        ],
+        "c515": [
+            "especial/c515_fire_sr.wav"
+        ],
+        "c520": [
+            "especial/c520_fire.wav"
+        ],
+        "c582": [
+            "especial/c582_fire.wav"
+        ],
+        "c811": [
+            "especial/c811_fire_1.wav"
+        ],
+        "c812": [
+            "especial/c812_fire_3.wav"
+        ],
+        "c821": [
+            "especial/c821_fire_far_3.wav"
+        ],
+        "c830": [
+            "especial/c830_fire_1.wav"
+        ],
+        "c831": [
+            "especial/c831_fire_loop.wav"
+        ],
+        "c840": [
+            "especial/c840_fire.wav"
+        ],
+        "c851": [
+            "especial/c851_fire_2.wav"
+        ],
+        "c901": [
+            "especial/c901_fire.wav"
+        ]
+    }
+}

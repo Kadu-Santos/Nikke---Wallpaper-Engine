@@ -1,0 +1,28 @@
+{
+    "id": "c9006",
+    "name": "Deipara",
+    "appearance": {
+        "color1": "#3c3c53",
+        "color2": "#3c3c53"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "smile",
+                "hit": "surprise"
+            },
+            "model": {
+                "skeleton": "c9006_00.skel",
+                "atlas": "c9006_00.atlas"
+            }
+        }
+    ]
+}

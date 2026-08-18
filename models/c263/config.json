@@ -1,0 +1,28 @@
+{
+    "id": "c263",
+    "name": "Indivilia",
+    "appearance": {
+        "color1": "#328bae",
+        "color2": "#328bae"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c263_00.skel",
+                "atlas": "c263_00.atlas"
+            }
+        }
+    ]
+}

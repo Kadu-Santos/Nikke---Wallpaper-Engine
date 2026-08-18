@@ -1,0 +1,65 @@
+{
+    "id": "c381",
+    "name": "Biscuit",
+    "weapon": "RL",
+    "appearance": {
+        "color1": "#ce9b60",
+        "color2": "#ce9b60"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -20,
+                "scale": 8.0
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c381_00.skel",
+                "atlas": "c381_00.atlas"
+            }
+        },
+        {
+            "id": "cover",
+            "folder": "cover",
+            "position": {
+                "x": 0,
+                "y": -15,
+                "scale": 8.0
+            },
+            "animations": {
+                "idle": "cover_idle",
+                "action": "cover_reload",
+                "hit": "cover_stun"
+            },
+            "model": {
+                "skeleton": "c381_cover_00.skel",
+                "atlas": "c381_cover_00.atlas"
+            }
+        },
+        {
+            "id": "aim",
+            "folder": "aim",
+            "position": {
+                "x": 0,
+                "y": -10,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "aim_idle",
+                "action": "aim_fire",
+                "hit": "aim_hit"
+            },
+            "model": {
+                "skeleton": "c381_aim_00.skel",
+                "atlas": "c381_aim_00.atlas"
+            }
+        }
+    ]
+}

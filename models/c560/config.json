@@ -1,0 +1,28 @@
+{
+    "id": "c560",
+    "name": "Behemoth",
+    "appearance": {
+        "color1": "#611115",
+        "color2": "#611115"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c560_00.skel",
+                "atlas": "c560_00.atlas"
+            }
+        }
+    ]
+}

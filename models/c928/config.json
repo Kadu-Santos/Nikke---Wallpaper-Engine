@@ -1,0 +1,28 @@
+{
+    "id": "c928",
+    "name": "Einkk",
+    "appearance": {
+        "color1": "#6fb075",
+        "color2": "#6fb075"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -20,
+                "scale": 8.0
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c928_00.skel",
+                "atlas": "c928_00.atlas"
+            }
+        }
+    ]
+}

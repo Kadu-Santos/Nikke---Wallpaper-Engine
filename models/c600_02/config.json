@@ -1,0 +1,28 @@
+{
+    "id": "c600_02",
+    "name": "Mint",
+    "appearance": {
+        "color1": "#57d4f2",
+        "color2": "#57d4f2"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c600_02_00.skel",
+                "atlas": "c600_02_00.atlas"
+            }
+        }
+    ]
+}

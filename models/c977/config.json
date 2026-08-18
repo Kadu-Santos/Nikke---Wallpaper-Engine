@@ -1,0 +1,28 @@
+{
+    "id": "c977",
+    "name": "Kilo",
+    "appearance": {
+        "color1": "#739753",
+        "color2": "#739753"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c977_00.skel",
+                "atlas": "c977_00.atlas"
+            }
+        }
+    ]
+}

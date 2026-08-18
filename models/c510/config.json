@@ -1,0 +1,28 @@
+{
+    "id": "c510",
+    "name": "Grave",
+    "appearance": {
+        "color1": "#a03a3a",
+        "color2": "#a03a3a"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c510_00.skel",
+                "atlas": "c510_00.atlas"
+            }
+        }
+    ]
+}

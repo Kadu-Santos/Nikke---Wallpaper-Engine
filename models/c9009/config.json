@@ -1,0 +1,28 @@
+{
+    "id": "c9009",
+    "name": "Nihilister",
+    "appearance": {
+        "color1": "#eb8a34",
+        "color2": "#eb8a34"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c9009_00.skel",
+                "atlas": "c9009_00.atlas"
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "c940",
+    "name": "E.H.",
+    "appearance": {
+        "color1": "#7c8acb",
+        "color2": "#7c8acb"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -20,
+                "scale": 8.0
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c940_00.skel",
+                "atlas": "c940_00.atlas"
+            }
+        }
+    ]
+}

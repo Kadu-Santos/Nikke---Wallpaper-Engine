@@ -1,0 +1,28 @@
+{
+    "id": "c601_02",
+    "name": "Prika",
+    "appearance": {
+        "color1": "#7bae61",
+        "color2": "#7bae61"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c601_02_00.skel",
+                "atlas": "c601_02_00.atlas"
+            }
+        }
+    ]
+}

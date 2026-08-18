@@ -1,0 +1,65 @@
+{
+    "id": "c470_02",
+    "name": "Red Hood Retro Days",
+    "weapon": "SR",
+    "appearance": {
+        "color1": "#ab1112",
+        "color2": "#ab1112"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c470_02_00.skel",
+                "atlas": "c470_02_00.atlas"
+            }
+        },
+        {
+            "id": "cover",
+            "folder": "cover",
+            "position": {
+                "x": 0,
+                "y": -15,
+                "scale": 8
+            },
+            "animations": {
+                "idle": "cover_idle",
+                "action": "cover_reload",
+                "hit": "cover_stun"
+            },
+            "model": {
+                "skeleton": "c470_02_cover_00.skel",
+                "atlas": "c470_02_cover_00.atlas"
+            }
+        },
+        {
+            "id": "aim",
+            "folder": "aim",
+            "position": {
+                "x": 0,
+                "y": -10,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "aim_idle",
+                "action": "aim_fire",
+                "hit": "aim_hit"
+            },
+            "model": {
+                "skeleton": "c470_02_aim_00.skel",
+                "atlas": "c470_02_aim_00.atlas"
+            }
+        }
+    ]
+}
