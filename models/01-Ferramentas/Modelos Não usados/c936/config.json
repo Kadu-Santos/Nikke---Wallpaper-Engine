@@ -1,0 +1,28 @@
+{
+    "id": "c936",
+    "name": "Max",
+    "appearance": {
+        "color1": "#04d8e8",
+        "color2": "#04d8e8"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -20,
+                "scale": 8.0
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c936_00.skel",
+                "atlas": "c936_00.atlas"
+            }
+        }
+    ]
+}

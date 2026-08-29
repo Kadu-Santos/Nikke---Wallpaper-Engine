@@ -1,0 +1,28 @@
+{
+    "id": "mba002",
+    "name": "Boss: Nihilister",
+    "appearance": {
+        "color1": "#005372",
+        "color2": "#000b63"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 9,
+                "y": -25,
+                "scale": 6
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "mba002_00.skel",
+                "atlas": "mba002_00.atlas"
+            }
+        }
+    ]
+}

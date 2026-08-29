@@ -3,16 +3,16 @@
     "name": "Elegg: Boom and Shock",
     "weapon": "MG",
     "appearance": {
-        "color1": "#38cad0",
-        "color2": "#38cad0"
+        "color1": "#26a2aa",
+        "color2": "#fef65e"
     },
     "variants": [
         {
             "id": "default",
             "folder": "",
             "position": {
-                "x": 0,
-                "y": -25,
+                "x": 5,
+                "y": -30,
                 "scale": 7
             },
             "animations": {

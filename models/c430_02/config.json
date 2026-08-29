@@ -3,8 +3,8 @@
     "name": "Noise Classic Diva",
     "weapon": "RL",
     "appearance": {
-        "color1": "#fa981f",
-        "color2": "#fa981f"
+        "color1": "#494a7a",
+        "color2": "#f5d56b"
     },
     "variants": [
         {
@@ -12,7 +12,7 @@
             "folder": "",
             "position": {
                 "x": 0,
-                "y": -25,
+                "y": -50,
                 "scale": 7
             },
             "animations": {

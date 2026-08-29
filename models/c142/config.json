@@ -3,7 +3,7 @@
     "name": "Frima",
     "weapon": "SR",
     "appearance": {
-        "color1": "#2b3bd8",
+        "color1": "#a7254e",
         "color2": "#2b3bd8"
     },
     "variants": [
@@ -13,7 +13,7 @@
             "position": {
                 "x": 0,
                 "y": -25,
-                "scale": 7
+                "scale": 6
             },
             "animations": {
                 "idle": "idle",

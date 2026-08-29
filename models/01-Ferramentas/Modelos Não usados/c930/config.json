@@ -1,0 +1,28 @@
+{
+    "id": "c930",
+    "name": "Beatrice",
+    "appearance": {
+        "color1": "#005372",
+        "color2": "#000b63"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -20,
+                "scale": 8.0
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c930_00.skel",
+                "atlas": "c930_00.atlas"
+            }
+        }
+    ]
+}

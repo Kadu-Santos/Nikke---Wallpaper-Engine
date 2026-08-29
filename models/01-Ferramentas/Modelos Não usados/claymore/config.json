@@ -1,0 +1,28 @@
+{
+    "id": "claymore",
+    "name": "Claymore",
+    "appearance": {
+        "color1": "#48c2cb",
+        "color2": "#48c2cb"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 9,
+                "y": -25,
+                "scale": 6
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "claymore_00.skel",
+                "atlas": "claymore_00.atlas"
+            }
+        }
+    ]
+}

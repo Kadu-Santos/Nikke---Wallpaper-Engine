@@ -1,0 +1,28 @@
+{
+    "id": "c996",
+    "name": "Leviathan",
+    "appearance": {
+        "color1": "#9df660",
+        "color2": "#9df660"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c996_00.skel",
+                "atlas": "c996_00.atlas"
+            }
+        }
+    ]
+}

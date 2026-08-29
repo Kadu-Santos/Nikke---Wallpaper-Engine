@@ -1,0 +1,28 @@
+{
+    "id": "c951",
+    "name": "Faceless NPC 12",
+    "appearance": {
+        "color1": "#005372",
+        "color2": "#000b63"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c951_00.skel",
+                "atlas": "c951_00.atlas"
+            }
+        }
+    ]
+}

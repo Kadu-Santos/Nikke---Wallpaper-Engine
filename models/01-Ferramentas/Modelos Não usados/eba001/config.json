@@ -1,0 +1,28 @@
+{
+    "id": "eba001",
+    "name": "Boss: Storm Bringer",
+    "appearance": {
+        "color1": "#005372",
+        "color2": "#000b63"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 9,
+                "y": -25,
+                "scale": 6
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "eba001_00.skel",
+                "atlas": "eba001_00.atlas"
+            }
+        }
+    ]
+}

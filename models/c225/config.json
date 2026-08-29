@@ -3,8 +3,8 @@
     "name": "Scarlet: Black Shadow",
     "weapon": "RL",
     "appearance": {
-        "color1": "#77619e",
-        "color2": "#77619e"
+        "color1": "#ec2c2d",
+        "color2": "#1d1032"
     },
     "variants": [
         {
@@ -12,8 +12,8 @@
             "folder": "",
             "position": {
                 "x": 0,
-                "y": -25,
-                "scale": 7
+                "y": -15,
+                "scale": 7.5
             },
             "animations": {
                 "idle": "idle",
@@ -29,8 +29,8 @@
             "id": "cover",
             "folder": "cover",
             "position": {
-                "x": 0,
-                "y": -15,
+                "x": 7,
+                "y": -10,
                 "scale": 8
             },
             "animations": {

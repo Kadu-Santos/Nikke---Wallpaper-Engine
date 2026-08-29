@@ -1,0 +1,28 @@
+{
+    "id": "darkhero",
+    "name": "D.ARK HERO",
+    "appearance": {
+        "color1": "#5353ff",
+        "color2": "#5353ff"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 9,
+                "y": -25,
+                "scale": 6
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "darkhero_00.skel",
+                "atlas": "darkhero_00.atlas"
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "c963",
+    "name": "Product 12: C-1002",
+    "appearance": {
+        "color1": "#635df0",
+        "color2": "#635df0"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c963_00.skel",
+                "atlas": "c963_00.atlas"
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "mbg001",
+    "name": "Boss: Alteisen",
+    "appearance": {
+        "color1": "#005372",
+        "color2": "#000b63"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 9,
+                "y": -25,
+                "scale": 6
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "mbg001_00.skel",
+                "atlas": "mbg001_00.atlas"
+            }
+        }
+    ]
+}

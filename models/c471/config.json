@@ -3,7 +3,7 @@
     "name": "Snow White: Heavy Arms",
     "weapon": "SR",
     "appearance": {
-        "color1": "#ffe12d",
+        "color1": "#000000",
         "color2": "#ffe12d"
     },
     "variants": [

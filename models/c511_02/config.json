@@ -3,8 +3,8 @@
     "name": "Anachiro | Cinderella Beautiful Me",
     "weapon": "",
     "appearance": {
-        "color1": "#aab3dc",
-        "color2": "#aab3dc"
+        "color1": "#cd1f39",
+        "color2": "#7a8cdc"
     },
     "variants": [
         {
@@ -12,7 +12,7 @@
             "folder": "",
             "position": {
                 "x": 0,
-                "y": -25,
+                "y": -35,
                 "scale": 7
             },
             "animations": {

@@ -3,7 +3,7 @@
     "name": "Tia",
     "weapon": "RL",
     "appearance": {
-        "color1": "#dca9c3",
+        "color1": "#794e98",
         "color2": "#dca9c3"
     },
     "variants": [
@@ -12,7 +12,7 @@
             "folder": "",
             "position": {
                 "x": 0,
-                "y": -25,
+                "y": -35,
                 "scale": 7
             },
             "animations": {

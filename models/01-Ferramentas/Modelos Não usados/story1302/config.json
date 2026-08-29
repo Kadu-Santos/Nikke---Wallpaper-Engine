@@ -1,0 +1,28 @@
+{
+    "id": "story1302",
+    "name": "Story 13-02",
+    "appearance": {
+        "color1": "#005372",
+        "color2": "#000b63"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 9,
+                "y": -25,
+                "scale": 1
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "story1302_00.skel",
+                "atlas": "story1302_00.atlas"
+            }
+        }
+    ]
+}

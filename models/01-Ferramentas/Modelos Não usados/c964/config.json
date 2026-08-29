@@ -1,0 +1,28 @@
+{
+    "id": "c964",
+    "name": "Product 12: 6000-D",
+    "appearance": {
+        "color1": "#635df0",
+        "color2": "#635df0"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c964_00.skel",
+                "atlas": "c964_00.atlas"
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "c948",
+    "name": "Faceless NPC 11",
+    "appearance": {
+        "color1": "#005372",
+        "color2": "#000b63"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c948_00.skel",
+                "atlas": "c948_00.atlas"
+            }
+        }
+    ]
+}

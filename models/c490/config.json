@@ -2,16 +2,16 @@
     "id": "c490",
     "name": "Hammering",
     "appearance": {
-        "color1": "#005372",
-        "color2": "#000b63"
+        "color1": "#4e9791",
+        "color2": "#8b60af"
     },
     "variants": [
         {
             "id": "default",
             "folder": "",
             "position": {
-                "x": 0,
-                "y": -25,
+                "x": 20,
+                "y": -35,
                 "scale": 7
             },
             "animations": {

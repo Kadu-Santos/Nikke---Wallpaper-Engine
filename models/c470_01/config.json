@@ -11,8 +11,8 @@
             "id": "default",
             "folder": "",
             "position": {
-                "x": 0,
-                "y": -25,
+                "x": 15,
+                "y": -35,
                 "scale": 7
             },
             "animations": {

@@ -1,0 +1,28 @@
+{
+    "id": "c942",
+    "name": "Commander (GODDESS)",
+    "appearance": {
+        "color1": "#ffffff",
+        "color2": "#ffffff"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c942_00.skel",
+                "atlas": "c942_00.atlas"
+            }
+        }
+    ]
+}

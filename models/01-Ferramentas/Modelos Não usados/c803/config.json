@@ -1,0 +1,28 @@
+{
+    "id": "c803",
+    "name": "Denji",
+    "appearance": {
+        "color1": "#3c3c53",
+        "color2": "#3c3c53"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -20,
+                "scale": 8.0
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c803_00.skel",
+                "atlas": "c803_00.atlas"
+            }
+        }
+    ]
+}

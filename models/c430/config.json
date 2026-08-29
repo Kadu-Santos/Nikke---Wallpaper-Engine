@@ -3,17 +3,17 @@
     "name": "Noise",
     "weapon": "RL",
     "appearance": {
-        "color1": "#fa981f",
-        "color2": "#fa981f"
+        "color1": "#616db4",
+        "color2": "#c7ab89"
     },
     "variants": [
         {
             "id": "default",
             "folder": "",
             "position": {
-                "x": 0,
-                "y": -20,
-                "scale": 8.0
+                "x": 10,
+                "y": -25,
+                "scale": 8
             },
             "animations": {
                 "idle": "idle",
@@ -31,7 +31,7 @@
             "position": {
                 "x": 0,
                 "y": -15,
-                "scale": 8.0
+                "scale": 8
             },
             "animations": {
                 "idle": "cover_idle",

@@ -1,0 +1,28 @@
+{
+    "id": "smol_liter",
+    "name": "Smol Liter",
+    "appearance": {
+        "color1": "#005372",
+        "color2": "#000b63"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 9,
+                "y": -25,
+                "scale": 6
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "smol_liter_00.skel",
+                "atlas": "smol_liter_00.atlas"
+            }
+        }
+    ]
+}

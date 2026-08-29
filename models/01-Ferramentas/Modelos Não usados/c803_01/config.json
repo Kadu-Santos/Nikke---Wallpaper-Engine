@@ -1,0 +1,28 @@
+{
+    "id": "c803_01",
+    "name": "Denji Chainsaw Man",
+    "appearance": {
+        "color1": "#5353ff",
+        "color2": "#5353ff"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -20,
+                "scale": 8.0
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c803_01_00.skel",
+                "atlas": "c803_01_00.atlas"
+            }
+        }
+    ]
+}

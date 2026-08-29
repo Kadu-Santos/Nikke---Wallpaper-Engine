@@ -11,9 +11,9 @@
             "id": "default",
             "folder": "",
             "position": {
-                "x": 0,
-                "y": -25,
-                "scale": 7
+                "x": 10,
+                "y": -50,
+                "scale": 7.5
             },
             "animations": {
                 "idle": "idle",

@@ -10,8 +10,8 @@
             "id": "default",
             "folder": "",
             "position": {
-                "x": 0,
-                "y": -25,
+                "x": 10,
+                "y": -45,
                 "scale": 7
             },
             "animations": {

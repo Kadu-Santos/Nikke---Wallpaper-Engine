@@ -12,7 +12,7 @@
             "folder": "",
             "position": {
                 "x": 0,
-                "y": -25,
+                "y": -40,
                 "scale": 7
             },
             "animations": {
@@ -30,7 +30,7 @@
             "folder": "cover",
             "position": {
                 "x": 0,
-                "y": -15,
+                "y": -5,
                 "scale": 8
             },
             "animations": {
@@ -48,8 +48,8 @@
             "folder": "aim",
             "position": {
                 "x": 0,
-                "y": -10,
-                "scale": 7
+                "y": -6,
+                "scale": 8.5
             },
             "animations": {
                 "idle": "aim_idle",

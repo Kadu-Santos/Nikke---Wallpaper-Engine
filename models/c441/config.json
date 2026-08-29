@@ -3,7 +3,7 @@
     "name": "Avistar",
     "weapon": "MG",
     "appearance": {
-        "color1": "#8389ff",
+        "color1": "#c23941",
         "color2": "#8389ff"
     },
     "variants": [
@@ -11,8 +11,8 @@
             "id": "default",
             "folder": "",
             "position": {
-                "x": 0,
-                "y": -25,
+                "x": 10,
+                "y": -40,
                 "scale": 7
             },
             "animations": {

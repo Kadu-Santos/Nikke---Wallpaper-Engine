@@ -1,0 +1,28 @@
+{
+    "id": "whitememory2",
+    "name": "White Memory 2",
+    "appearance": {
+        "color1": "#005372",
+        "color2": "#000b63"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 9,
+                "y": -25,
+                "scale": 6
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "whitememory2_00.skel",
+                "atlas": "whitememory2_00.atlas"
+            }
+        }
+    ]
+}

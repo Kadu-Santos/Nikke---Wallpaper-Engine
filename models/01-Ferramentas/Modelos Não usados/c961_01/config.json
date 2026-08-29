@@ -1,0 +1,28 @@
+{
+    "id": "c961_01",
+    "name": "Oswald",
+    "appearance": {
+        "color1": "#005372",
+        "color2": "#000b63"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c961_01_00.skel",
+                "atlas": "c961_01_00.atlas"
+            }
+        }
+    ]
+}

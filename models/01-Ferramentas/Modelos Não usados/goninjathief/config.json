@@ -1,0 +1,28 @@
+{
+    "id": "goninjathief",
+    "name": "Go! Ninja Thief",
+    "appearance": {
+        "color1": "#005372",
+        "color2": "#000b63"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 9,
+                "y": -25,
+                "scale": 6
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "goninjathief_00.skel",
+                "atlas": "goninjathief_00.atlas"
+            }
+        }
+    ]
+}

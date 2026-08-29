@@ -1,0 +1,28 @@
+{
+    "id": "dirtybackyard",
+    "name": "Dirty Backyard",
+    "appearance": {
+        "color1": "#5353ff",
+        "color2": "#5353ff"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 9,
+                "y": -25,
+                "scale": 6
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "dirtybackyard_00.skel",
+                "atlas": "dirtybackyard_00.atlas"
+            }
+        }
+    ]
+}

@@ -3,8 +3,8 @@
     "name": "Naga Elegant Date",
     "weapon": "SG",
     "appearance": {
-        "color1": "#4ec7d5",
-        "color2": "#4ec7d5"
+        "color1": "#e0c6b4",
+        "color2": "#65433f"
     },
     "variants": [
         {
@@ -12,7 +12,7 @@
             "folder": "",
             "position": {
                 "x": 0,
-                "y": -25,
+                "y": -35,
                 "scale": 7
             },
             "animations": {

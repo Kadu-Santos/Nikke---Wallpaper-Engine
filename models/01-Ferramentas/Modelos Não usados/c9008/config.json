@@ -1,0 +1,28 @@
+{
+    "id": "c9008",
+    "name": "Nayuta",
+    "appearance": {
+        "color1": "#ffaf37",
+        "color2": "#ffaf37"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c9008_00.skel",
+                "atlas": "c9008_00.atlas"
+            }
+        }
+    ]
+}

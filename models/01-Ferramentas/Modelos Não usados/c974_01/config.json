@@ -1,0 +1,28 @@
+{
+    "id": "c974_01",
+    "name": "Mass Produced Melee 2",
+    "appearance": {
+        "color1": "#f1e037",
+        "color2": "#f1e037"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c974_01_00.skel",
+                "atlas": "c974_01_00.atlas"
+            }
+        }
+    ]
+}

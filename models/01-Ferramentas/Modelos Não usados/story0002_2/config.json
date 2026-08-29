@@ -1,0 +1,28 @@
+{
+    "id": "story0002_2",
+    "name": "Story 00-02 no filter",
+    "appearance": {
+        "color1": "#005372",
+        "color2": "#000b63"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 9,
+                "y": -25,
+                "scale": 6
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "story0002_2_00.skel",
+                "atlas": "story0002_2_00.atlas"
+            }
+        }
+    ]
+}

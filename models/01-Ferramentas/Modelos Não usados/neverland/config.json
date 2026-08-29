@@ -1,0 +1,28 @@
+{
+    "id": "neverland",
+    "name": "Neverland",
+    "appearance": {
+        "color1": "#499bff",
+        "color2": "#499bff"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 9,
+                "y": -25,
+                "scale": 6
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "neverland_00.skel",
+                "atlas": "neverland_00.atlas"
+            }
+        }
+    ]
+}

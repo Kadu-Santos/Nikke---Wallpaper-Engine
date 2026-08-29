@@ -1,0 +1,28 @@
+{
+    "id": "c962",
+    "name": "Product 12: B-0006",
+    "appearance": {
+        "color1": "#635df0",
+        "color2": "#635df0"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c962_00.skel",
+                "atlas": "c962_00.atlas"
+            }
+        }
+    ]
+}

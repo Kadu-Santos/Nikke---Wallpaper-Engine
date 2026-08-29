@@ -2,7 +2,7 @@
     "id": "c440",
     "name": "Eyeri",
     "appearance": {
-        "color1": "#005372",
+        "color1": "#da484a",
         "color2": "#000b63"
     },
     "variants": [
@@ -11,7 +11,7 @@
             "folder": "",
             "position": {
                 "x": 0,
-                "y": -25,
+                "y": -35,
                 "scale": 7
             },
             "animations": {

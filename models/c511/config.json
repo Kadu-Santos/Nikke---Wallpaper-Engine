@@ -3,16 +3,16 @@
     "name": "Anachiro | Cinderella",
     "weapon": "",
     "appearance": {
-        "color1": "#aab3dc",
-        "color2": "#aab3dc"
+        "color1": "#c5344a",
+        "color2": "#5ba5e3"
     },
     "variants": [
         {
             "id": "default",
             "folder": "",
             "position": {
-                "x": 0,
-                "y": -25,
+                "x": 25,
+                "y": -35,
                 "scale": 7
             },
             "animations": {

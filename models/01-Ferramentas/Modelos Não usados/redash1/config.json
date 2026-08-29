@@ -1,0 +1,28 @@
+{
+    "id": "redash1",
+    "name": "RED ASH 1",
+    "appearance": {
+        "color1": "#ab1112",
+        "color2": "#ab1112"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 9,
+                "y": -25,
+                "scale": 6
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "redash1_00.skel",
+                "atlas": "redash1_00.atlas"
+            }
+        }
+    ]
+}

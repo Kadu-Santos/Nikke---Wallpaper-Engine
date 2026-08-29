@@ -2,8 +2,8 @@
     "id": "c482",
     "name": "#000000 - Logey",
     "appearance": {
-        "color1": "#005372",
-        "color2": "#000b63"
+        "color1": "#000b63",
+        "color2": "#850120"
     },
     "variants": [
         {
@@ -11,8 +11,8 @@
             "folder": "",
             "position": {
                 "x": 0,
-                "y": -25,
-                "scale": 7
+                "y": -35,
+                "scale": 5.5
             },
             "animations": {
                 "idle": "idle",

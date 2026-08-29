@@ -3,7 +3,7 @@
     "name": "Anachiro | Cinderella Glass Princess",
     "weapon": "",
     "appearance": {
-        "color1": "#aab3dc",
+        "color1": "#3c68af",
         "color2": "#aab3dc"
     },
     "variants": [
@@ -12,7 +12,7 @@
             "folder": "",
             "position": {
                 "x": 0,
-                "y": -25,
+                "y": -35,
                 "scale": 7
             },
             "animations": {

@@ -1,0 +1,28 @@
+{
+    "id": "c985",
+    "name": "Yuni",
+    "appearance": {
+        "color1": "#ff3373",
+        "color2": "#ff3373"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 0,
+                "y": -25,
+                "scale": 7
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "action",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c985_00.skel",
+                "atlas": "c985_00.atlas"
+            }
+        }
+    ]
+}
