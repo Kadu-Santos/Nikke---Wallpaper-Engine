@@ -1,3 +1,5 @@
 *.atlas
 *.png
 *.skel
+
+!/image/**
