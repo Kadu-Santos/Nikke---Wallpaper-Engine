@@ -921,6 +921,10 @@
             "config": "c321_01/config.json"
         },
         {
+            "id": "c322",
+            "config": "c322/config.json"
+        },
+        {
             "id": "c330",
             "config": "c330/config.json"
         },
