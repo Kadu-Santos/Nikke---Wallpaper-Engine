@@ -1,0 +1,27 @@
+{
+    "name": "Dorothy",
+    "appearance": {
+        "color1": "#7664c0",
+        "color2": "#962743"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": -10,
+                "y": 0,
+                "scale": 6
+            },
+            "animations": {
+                "idle": "idle_2",
+                "action": "delight_2",
+                "hit": "smile_2"
+            },
+            "model": {
+                "skeleton": "c474_00.skel",
+                "atlas": "c474_00.atlas"
+            }
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Papillon",
+    "appearance": {
+        "color1": "#da2634",
+        "color2": "#b53969"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 9,
+                "y": -25,
+                "scale": 6
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "delight",
+                "hit": "angry"
+            },
+            "model": {
+                "skeleton": "c236_00.skel",
+                "atlas": "c236_00.atlas"
+            }
+        }
+    ]
+}

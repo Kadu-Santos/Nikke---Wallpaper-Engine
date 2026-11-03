@@ -69,6 +69,18 @@
             "config": "c018/config.json"
         },
         {
+            "id": "c018_01",
+            "config": "c018_01/config.json"
+        },
+        {
+            "id": "c019",
+            "config": "c019/config.json"
+        },
+        {
+            "id": "c019_01",
+            "config": "c019_01/config.json"
+        },
+        {
             "id": "c020",
             "config": "c020/config.json"
         },
@@ -143,6 +155,10 @@
         {
             "id": "c062",
             "config": "c062/config.json"
+        },
+        {
+            "id": "c063",
+            "config": "c063/config.json"
         },
         {
             "id": "c070",
@@ -385,6 +401,10 @@
             "config": "c140_02/config.json"
         },
         {
+            "id": "c140_03",
+            "config": "c140_03/config.json"
+        },
+        {
             "id": "c141",
             "config": "c141/config.json"
         },
@@ -617,6 +637,10 @@
             "config": "c223_01/config.json"
         },
         {
+            "id": "c223_02",
+            "config": "c223_02/config.json"
+        },
+        {
             "id": "c224",
             "config": "c224/config.json"
         },
@@ -675,6 +699,14 @@
         {
             "id": "c234",
             "config": "c234/config.json"
+        },
+        {
+            "id": "c235",
+            "config": "c235/config.json"
+        },
+        {
+            "id": "c236",
+            "config": "c236/config.json"
         },
         {
             "id": "c240",
@@ -799,6 +831,10 @@
         {
             "id": "c290",
             "config": "c290/config.json"
+        },
+        {
+            "id": "c290_01",
+            "config": "c290_01/config.json"
         },
         {
             "id": "c291",
@@ -1037,6 +1073,14 @@
             "config": "c403_01/config.json"
         },
         {
+            "id": "c404",
+            "config": "c404/config.json"
+        },
+        {
+            "id": "c405",
+            "config": "c405/config.json"
+        },
+        {
             "id": "c411",
             "config": "c411/config.json"
         },
@@ -1133,12 +1177,20 @@
             "config": "c471/config.json"
         },
         {
+            "id": "c471_01",
+            "config": "c471_01/config.json"
+        },
+        {
             "id": "c472",
             "config": "c472/config.json"
         },
         {
             "id": "c473",
             "config": "c473/config.json"
+        },
+        {
+            "id": "c474",
+            "config": "c474/config.json"
         },
         {
             "id": "c480",
@@ -1191,6 +1243,10 @@
         {
             "id": "c511_02",
             "config": "c511_02/config.json"
+        },
+        {
+            "id": "c511_03",
+            "config": "c511_03/config.json"
         },
         {
             "id": "c513",
@@ -1307,6 +1363,10 @@
         {
             "id": "c582",
             "config": "c582/config.json"
+        },
+        {
+            "id": "c582_01",
+            "config": "c582_01/config.json"
         },
         {
             "id": "c583",
@@ -1693,6 +1753,10 @@
             "config": "c9026/config.json"
         },
         {
+            "id": "c9027",
+            "config": "c9027/config.json"
+        },
+        {
             "id": "c9029",
             "config": "c9029/config.json"
         },
@@ -1707,6 +1771,14 @@
         {
             "id": "c904",
             "config": "c904/config.json"
+        },
+        {
+            "id": "c9041",
+            "config": "c9041/config.json"
+        },
+        {
+            "id": "c9042",
+            "config": "c9042/config.json"
         },
         {
             "id": "c905",

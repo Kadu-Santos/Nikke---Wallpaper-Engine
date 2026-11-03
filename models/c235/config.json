@@ -1,0 +1,27 @@
+{
+    "name": "Noah",
+    "appearance": {
+        "color1": "#e8a578",
+        "color2": "#bd8332"
+    },
+    "variants": [
+        {
+            "id": "default",
+            "folder": "",
+            "position": {
+                "x": 9,
+                "y": -25,
+                "scale": 6
+            },
+            "animations": {
+                "idle": "idle",
+                "action": "go",
+                "hit": "shy"
+            },
+            "model": {
+                "skeleton": "c235_00.skel",
+                "atlas": "c235_00.atlas"
+            }
+        }
+    ]
+}
