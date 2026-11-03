@@ -55,8 +55,8 @@ async function init() {
     initialized = true; // Marca como inicializada
 
     // Descomentar para abrir no navegador, pois sem o walpaper engine, ele não carrega o modelo inicial
-    await modelManager.loadModel("c322");
-    await updateSpinePlayer();
+    //await modelManager.loadModel("c322");
+    //await updateSpinePlayer();
 
     // Se o Wallpaper Engine já enviou propriedades enquanto carregávamos, aplica agora:
     if (initialProperties) {
