@@ -4,7 +4,7 @@ import shutil
 import requests
 
 # ================= CONFIGURAÇÃO =================
-URL_L2D_GITHUB = "https://raw.githubusercontent.com/Nikke-db/Nikke-db.github.io/main/js/json/l2d.json"
+URL_L2D_GITHUB = "https://raw.githubusercontent.com/Nikke-db/nikke-db-vue/refs/heads/main/src/utils/json/l2d.json"
 REPO_OWNER = "Nikke-db"
 REPO_NAME = "Nikke-db.github.io"
 BRANCH = "main"
